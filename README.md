@@ -8,7 +8,7 @@
 
 ## Tech Stack
 
-**Languages:** Python, Java, C++, JavaScript, HTML, CSS.
+**Languages:** Python, Java, C++, JavaScript.
 
 **Framework/Library:**Spring Boot, HTML/CSS, React JS, JSP/Servlet, JWT.
 
