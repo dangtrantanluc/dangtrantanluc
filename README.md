@@ -1,7 +1,7 @@
 
 ## Hi, I'm Tan Luc!
 
- - 🤖 AI Engineer
+
  - Studied Information Technology at Nong Lam University, Ho Chi Minh, Viet Nam.
 
 
@@ -10,7 +10,7 @@
 
 **Languages:** Python, Java, C++, JavaScript, HTML, CSS.
 
-**Framework/Library:** Numpy, Pandas, Matplotlib, Seaborn, Pytorch, Tensorflow, Keras, Langchain, Scikit-learn, HuggingFace.
+**Framework/Library:**Spring Boot, HTML/CSS, React JS, JSP/Servlet, JWT.
 
 **Database:** MySQL, SQL Server, Firebase database.
 
