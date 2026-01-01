@@ -1,14 +1,18 @@
 # Hi there, I'm Tan Luc! 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Backend%20Developer&fontSize=70&fontAlignY=35&desc=Building%20Scalable%20Systems%20with%20Java%20&%20Spring%20Boot&descAlignY=60&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Tan%20Luc%20Dang%20Tran&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Software%20Developer&descAlignY=55&descSize=25" alt="Header" />
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Building+Scalable+Systems+with+Java;Spring+Boot+Microservices;Secure+%26+High-Performance+Apps" alt="Typing SVG" />
+  </a>
 </div>
 
 <br/>
 
 ### 👨‍💻 About Me
 - 🎓 I graduated with a degree in **Information Technology** from **Nong Lam University**, Ho Chi Minh City.
-- 🔭 I’m currently focusing on **Backend Development** (Microservices, Distributed Systems).
+- 🔭 I’m currently focusing on **Software Development** (Microservices, Distributed Systems).
 - 🌱 I have a strong passion for building secure and high-performance financial applications.
 - ⚡ **Fun fact:** I love solving complex logic puzzles in Java!
 
@@ -45,5 +49,7 @@
 <div align="center">
   Let's connect! <br/>
   <a href="mailto:dttanluc2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="[LINK_LINKEDIN_CUA_BAN](https://www.linkedin.com/in/tan-luc-dang-tran-a12462279/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tan-luc-dang-tran-a12462279/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
