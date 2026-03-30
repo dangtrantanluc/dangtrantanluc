@@ -1,7 +1,7 @@
 # Hi there, I'm Tan Luc! 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Tan%20Luc%20Dang%20Tran&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Software%20Developer&descAlignY=55&descSize=25" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Tan%20Luc%20Dang%20Tran&fontSize=50&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer&descAlignY=55&descSize=25" alt="Header" />
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Building+Scalable+Systems+with+Java;Spring+Boot+Microservices;Secure+%26+High-Performance+Apps" alt="Typing SVG" />
