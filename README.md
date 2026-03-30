@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 I graduated with a degree in **Information Technology** from **Nong Lam University**, Ho Chi Minh City.
-- 🔭 I’m currently focusing on **Software Development** (Microservices, Distributed Systems).
+- 🔭 I’m currently focusing on **AI Engineer** (Microservices, Distributed Systems).
 - 🌱 I have a strong passion for building secure and high-performance financial applications.
 - ⚡ **Fun fact:** I love solving complex logic puzzles in Java!
 
