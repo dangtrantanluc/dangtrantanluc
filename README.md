@@ -1,55 +1,224 @@
-# Hi there, I'm Tan Luc! 👋
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Tan%20Luc%20Dang%20Tran&fontSize=50&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer&descAlignY=55&descSize=25" alt="Header" />
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Building+Scalable+Systems+with+Java;Spring+Boot+Microservices;Secure+%26+High-Performance+Apps" alt="Typing SVG" />
-  </a>
+
+# 👋 Hi, I'm Dang Tran Tan Luc
+
+### AI Engineer • AI Agent Systems • Applied AI • Workflow Automation
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Dang%20Tran%20Tan%20Luc&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20Production-Ready%20AI%20Systems%20and%20Agent%20Architectures&descAlignY=56&descSize=18" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+Engineer;Building+AI+Agents+and+Workflow+Automation;Production-Ready+LLM+Systems;RAG+%7C+Tool+Calling+%7C+Orchestration;FastAPI+%7C+Docker+%7C+PostgreSQL+%7C+LangGraph" />
+
 </div>
 
-<br/>
+---
 
-### 👨‍💻 About Me
-- 🎓 I graduated with a degree in **Information Technology** from **Nong Lam University**, Ho Chi Minh City.
-- 🔭 I’m currently focusing on **AI Engineer** (Microservices, Distributed Systems).
-- 🌱 I have a strong passion for building secure and high-performance financial applications.
-- ⚡ **Fun fact:** I love solving complex logic puzzles in Java!
+# 🚀 About Me
+
+I'm an AI Engineer focused on building production-oriented AI systems, AI Agents, workflow automation platforms, and enterprise AI integrations.
+
+Currently, I work on:
+- 🤖 AI Agent Systems
+- 🧠 LLM Applications & RAG Pipelines
+- 🔄 Workflow Orchestration
+- 🏢 Enterprise AI Integration
+- ⚡ FastAPI Backend Systems
+- 🐳 Containerized AI Services
+- 📊 AI-driven Automation Platforms
+
+I enjoy designing systems that combine:
+- AI reasoning
+- backend engineering
+- orchestration
+- automation
+- scalable architecture
 
 ---
 
-### 🛠️ Tech Stack
+# 💼 Experience
 
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+## 🏢 AI Engineer — BlueBolt Software
+📍 Go Vap, Ho Chi Minh City  
+📅 Feb 2026 – Present
 
-**Frameworks & Libraries**
-<p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
-  <img src="https://img.shields.io/badge/JSP_&_Servlet-Exp-orange?style=for-the-badge" />
-</p>
+- Designed and implemented AI agent–based project management workflows with task orchestration and automation pipelines.
+- Developed AI agents for logistics and operational workflow automation.
+- Built AI integrations for enterprise systems and internal platforms.
+- Containerized AI services using Docker for deployment and testing.
+- Collaborated with cross-functional teams to prototype AI-driven enterprise solutions.
+- Worked on system optimization, debugging, scalability, and technical documentation.
 
-**Databases & Cloud**
+---
+
+## 🔬 AI Researcher Intern — Wisdom Engineering & Business Solutions
+📍 Thu Duc, Ho Chi Minh City  
+📅 Mar 2025 – Aug 2025
+
+- Participated in AI research projects focused on Reinforcement Learning and Zero-shot Learning.
+- Contributed to AI model implementation, evaluation, and experimental analysis.
+- Assisted in research documentation and technical reporting.
+- Built prototype AI systems from theoretical research ideas.
+
+---
+
+# 🧠 Tech Stack
+
+## 👨‍💻 Languages
+
 <p>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts" />
 </p>
 
 ---
 
+## 🤖 AI / LLM / Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LlamaIndex-8E44AD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Transformers-FFB000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
+
+### 🔍 Areas of Interest
+- AI Agents
+- Tool Calling Systems
+- Multi-Agent Architecture
+- Workflow Automation
+- Retrieval-Augmented Generation (RAG)
+- LLM Orchestration
+- AI Infrastructure
+- Memory Systems
+- AI for Enterprise Operations
+
+---
+
+## ⚙️ Backend & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,spring,react,docker,postgres,mysql,mongodb,linux,git,github" />
+</p>
+
+### 🛠️ Additional Tools
+- FastAPI
+- REST APIs
+- Docker Compose
+- PostgreSQL
+- Redis
+- N8N
+- Odoo Customization
+- Linux Environment
+- GitHub Actions
+
+---
+
+# 🏗️ Featured Projects
+
+## 🤖 AI Agent Project Management System
+
+Production-oriented AI agent workflow platform for:
+- task orchestration
+- workflow automation
+- enterprise project operations
+- tool integration
+
+### Features
+- Multi-tool orchestration
+- AI workflow pipelines
+- Context-aware task handling
+- AI-assisted project operations
+- Enterprise integration support
+
+### Tech
+`Python` `FastAPI` `LangGraph` `Docker` `PostgreSQL`
+
+---
+
+## 📦 AI Logistics Workflow Agent
+
+AI agents designed for logistics and operational coordination.
+
+### Capabilities
+- Workflow automation
+- Intelligent task coordination
+- Operational process assistance
+- AI-powered enterprise workflows
+
+---
+
+## 🎭 Multimodal Emotion Recognition
+
+AI system combining:
+- text understanding
+- video understanding
+- multimodal feature fusion
+
+### Highlights
+- BERT + CNN-Transformer architecture
+- Temporal feature fusion
+- Real-time inference optimization
+- PyTorch + HuggingFace implementation
+
+### Tech
+`PyTorch` `Transformers` `BERT` `CNN` `OpenFace2`
+
+🔗 GitHub:  
+<YOUR_PROJECT_LINK>
+
+---
+
+# 📚 Currently Learning
+
+I'm currently exploring:
+- Distributed AI Systems
+- Event-Driven Architecture
+- Kafka & Streaming Systems
+- AI Infrastructure
+- Inference Optimization
+- Multi-Agent Runtime Architecture
+- Production RAG Systems
+- Observability for AI Applications
+
+---
+
+# 📈 GitHub Stats
 
 <div align="center">
-  Let's connect! <br/>
-  <a href="mailto:dttanluc2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/tan-luc-dang-tran-a12462279/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dttanluc2004&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dttanluc2004&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:dttanluc2004@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/tan-luc-dang-tran-a12462279/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/dttanluc2004">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Building AI Systems Beyond Simple Chatbots
+
 </div>
